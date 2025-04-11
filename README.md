@@ -32,10 +32,10 @@ I'm a passionate **Web3 FullStack Developer** and **AI Enthusiast** specializing
 ### [⚡ DeFi Protocols & Yield Arbitrage](https://github.com/salimdev04)
 > **Exploring Berachain DeFi**: Research and implementation of **Concentrated Liquidity Market Makers (CLMMs)** for yield optimization.
 
-### [🧠 LLM RAG System](https://github.com/salimdev04)
+### [🧠 LLM RAG System](https://github.com/salimdev04/LLM-RAG-test)
 > **Retrieval-Augmented Generation**: Built an intelligent RAG-based AI system combining LLMs with custom document knowledge bases using **LangChain** and **Vector Stores**.
 
-### [🔍 LLM Search Agent](https://github.com/salimdev04)
+### [🔍 LLM Search Agent](https://github.com/salimdev04/search-ai-agent)
 > **AI-Powered Search Agent**: Developed a LangChain-based agent for multi-step reasoning and smart querying over custom data sources.
 
 ---
